@@ -104,11 +104,15 @@ Open http://localhost:3000 in your browser
    ```bash
     cd backend
    ```
-2. Install required Python packages:
+2. Install Dependencies
+   ```bash
+     pip install -r requirements.txt 
+   ```
+3. Install required Python packages:
    ```bash
     pip install flask flask-cors pandas numpy scikit-learn requests
    ```
-3. Run the Flask API server:
+4. Run the Flask API server:
    ```bash
     python app.py
    ```
