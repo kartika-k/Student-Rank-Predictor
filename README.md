@@ -13,10 +13,10 @@ The **Student Rank Predictor** is a machine learning-based web application that 
 ## 🛠 Tech Stack
 **Frontend**:
 
--Next.js 14 - React Framework
--TypeScript - Programming Language
--Tailwind CSS - Styling
--Recharts - Charting Library
+-Next.js 14: React Framework
+-TypeScript : Programming Language
+-Tailwind CSS : Styling
+-Recharts : Charting Library
 
 **Backend**:
 
@@ -31,9 +31,7 @@ The **Student Rank Predictor** is a machine learning-based web application that 
 ## 📷 Screenshots
 | Homepage  | Rank Prediction |
 |-----------|----------------|
-| ![Homepage](![Screenshot 2025-02-10 010413](https://github.com/user-attachments/assets/151cc3f8-df8a-4ee6-91db-a69b2ecf51ce)
-) | ![Prediction](![Screenshot 2025-02-10 010444](https://github.com/user-attachments/assets/5beee22e-8123-48c4-b8e9-f9e5c85b4150)
-) |
+| ![Homepage](![Screenshot 2025-02-10 010413](https://github.com/user-attachments/assets/151cc3f8-df8a-4ee6-91db-a69b2ecf51ce)) | ![Prediction](![Screenshot 2025-02-10 010444](https://github.com/user-attachments/assets/5beee22e-8123-48c4-b8e9-f9e5c85b4150)) |
 
 ## 🏗 Installation
 
