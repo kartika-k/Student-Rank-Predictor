@@ -34,7 +34,7 @@ The **Student Rank Predictor** is a machine learning-based web application that 
 ## 📷 Screenshots
 | Homepage  | Rank Prediction |
 |-----------|----------------|
-|![Screenshot 2025-02-10 010413](https://github.com/user-attachments/assets/151cc3f8-df8a-4ee6-91db-a69b2ecf51ce | ![Screenshot 2025-02-10 010444](https://github.com/user-attachments/assets/5beee22e-8123-48c4-b8e9-f9e5c85b4150 |
+|![Screenshot 2025-02-10 010413](https://github.com/user-attachments/assets/151cc3f8-df8a-4ee6-91db-a69b2ecf51ce) | ![Screenshot 2025-02-10 010444](https://github.com/user-attachments/assets/5beee22e-8123-48c4-b8e9-f9e5c85b4150) |
 
 ## 🏗 Installation
 
